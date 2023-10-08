@@ -114,7 +114,7 @@
   position: absolute;
   width: 100%;
   height: 100%;
-  background-color: rgba(0,0,0,0.77);
+  background-color: rgba(22, 21, 21, 0.77);
   z-index: 10;
   display: flex;
   justify-content: center;
@@ -134,7 +134,7 @@
   padding: 10px;
   font-size: 20px;
   width: 100%;
-  background-color: blueviolet;
+  background-color: rgb(157, 64, 244);
   border: none;
   color: white;
   cursor: pointer;
